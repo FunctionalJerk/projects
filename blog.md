@@ -1,6 +1,6 @@
 ---
 layout: page
 title: Blog
-permalink: /
+permalink: https://functionaljerk.github.io
 nav_order: 99
 ---
